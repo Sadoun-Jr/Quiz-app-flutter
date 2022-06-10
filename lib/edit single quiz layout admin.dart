@@ -256,7 +256,7 @@ class _EditSingleQuizListOfQuestionsState
                 children: [
                   slider(),
                   SizedBox(
-                    height: 10,
+                    height: 10.5,
                   ),
                   Text(LOADING_DATA),
                 ],
