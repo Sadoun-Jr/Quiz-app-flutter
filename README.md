@@ -22,3 +22,5 @@ This is a Quiz app that utilises firebase as its backend, and allows 2 different
 # Known bugs in this version:
 
 1- "edit quiz list" displays old data when accessed and takes 2 seconds to refresh, because of a future() function in its initState() method. I did this because somehow the list that contains the entire list of quiz questions gets cleared right after the future() function.
+
+NOTE: Project is on hold due to work on my technicians app project
